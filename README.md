@@ -9,7 +9,7 @@ Only this changes has been made in order to get a more clear output in the conso
  - A buffer of 50 and some "\n" seem very convenient to show the results easily to students. 
  
  this is a screenshot of the project:
-  
+
   ![screenshots](screenshots/screenshot-01.png)
  
 As you can see in the previous screenshot there is a buffer and the Producer and Consumer threads can introduce and extract from the buffer at the same time. 
@@ -46,4 +46,4 @@ Enjoy!!!
 
 * https://doc.qt.io/qt-6/qtcore-threads-waitconditions-example.html. This project is just the same with some little adjustments to explain it in my classroom in a more convenient way for me.
 * https://www.w3schools.com/cpp/. An introduction to C++.
-*https://github.com/PurpleBooth/a-good-readme-template. A good README.md template.
+* https://github.com/PurpleBooth/a-good-readme-template. A good README.md template.
