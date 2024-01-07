@@ -8,7 +8,8 @@ Only this changes has been made in order to get a more clear output in the conso
  - Output to console in both producer and consumer.
  - A buffer of 50 and some "\n" seem very convenient to show the results easily to students. 
  
- this is a screenshot of the project. 
+ this is a screenshot of the project:
+  
   ![screenshots](screenshots/screenshot-01.png)
  
 As you can see in the previous screenshot there is a buffer and the Producer and Consumer threads can introduce and extract from the buffer at the same time. 
